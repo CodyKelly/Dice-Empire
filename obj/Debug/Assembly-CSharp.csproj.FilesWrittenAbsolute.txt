@@ -1,0 +1,17 @@
+/Users/hoyohoyo9/Unity Projects/Dice Wars/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/hoyohoyo9/Unity Projects/Dice Wars/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/hoyohoyo9/Unity Projects/Dice Wars/obj/Debug/Assembly-CSharp.dll
+/Users/hoyohoyo9/Unity Projects/Dice Wars/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/hoyohoyo9/Unity Projects/Dice Wars/Temp/bin/Debug/UnityEngine.dll
+/Users/hoyohoyo9/Unity Projects/Dice Wars/Temp/bin/Debug/UnityEditor.dll
+/Users/hoyohoyo9/Unity Projects/Dice Wars/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/hoyohoyo9/Unity Projects/Dice Wars/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/hoyohoyo9/Unity Projects/Dice Wars/Temp/bin/Debug/Mono.Cecil.dll
+/Users/hoyohoyo9/Unity Projects/Dice Wars/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/hoyohoyo9/Unity Projects/Dice Wars/Temp/bin/Debug/Unity.DataContract.dll
+/Users/hoyohoyo9/Unity Projects/Dice Wars/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/hoyohoyo9/Unity Projects/Dice Wars/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/hoyohoyo9/Unity Projects/Dice Wars/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/hoyohoyo9/Unity Projects/Dice Wars/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/hoyohoyo9/Unity Projects/Dice Wars/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/hoyohoyo9/Unity Projects/Dice Wars/Temp/bin/Debug/Mono.Cecil.Mdb.dll
